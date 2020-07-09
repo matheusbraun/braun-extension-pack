@@ -1,0 +1,40 @@
+{
+  "name": "braun-extension-pack",
+  "displayName": "Braun Extension Pack",
+  "description": "A collection of extensions that makes vscode more productive (and cool).",
+  "version": "1.0.0",
+  "publisher": "matheeusbl",
+  "icon": "vscode-logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "gitlens",
+    "dracula",
+    "material",
+    "prettier"
+  ],
+  "repository": {
+    "url": "https://github.com/matheeusbl/braun-extension-pack"
+  },
+  "homepage": "https://github.com/matheeusbl/braun-extension-pack",
+  "bugs": {
+    "url": "https://github.com/matheeusbl/braun-extension-pack/issues"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "coenraads.bracket-pair-colorizer-2",
+    "dracula-theme.theme-dracula",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode"
+  ]
+}
