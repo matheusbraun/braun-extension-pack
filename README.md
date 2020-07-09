@@ -2,9 +2,11 @@
 
 A collection of vscode plugins that makes it more productive (and cool).
 
+You can install it from the marketplace [here](https://marketplace.visualstudio.com/items?itemName=matheeusbl.braun-extension-pack).
+
 ## Included Extensions
 
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Allows matching brackets to be identified with colours.
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2) - Allows matching brackets to be identified with colours.
 
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - A dark theme for VS Code.
 
