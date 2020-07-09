@@ -2,7 +2,7 @@
   "name": "braun-extension-pack",
   "displayName": "Braun Extension Pack",
   "description": "A collection of extensions that makes vscode more productive (and cool).",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "matheeusbl",
   "icon": "vscode-logo.png",
   "galleryBanner": {
