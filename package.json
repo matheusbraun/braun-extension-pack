@@ -34,6 +34,7 @@
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
+    "ms-vsliveshare.vsliveshare-pack",
     "pkief.material-icon-theme",
     "esbenp.prettier-vscode"
   ]

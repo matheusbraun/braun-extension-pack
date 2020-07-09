@@ -14,6 +14,8 @@ A collection of vscode plugins that makes it more productive (and cool).
 
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens.
 
+- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-pack) - Includes everything you need to start collaboratively editing and debugging in real time, including integrated audio and text chat.
+
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=kief.material-icon-theme) - Customize your folders/files icons.
 
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
