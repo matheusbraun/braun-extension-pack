@@ -26,7 +26,7 @@ You can install it from the marketplace [here](https://marketplace.visualstudio.
 
 To install just a few extensions, you need to edit the [package.json](package.json) removing the unwanted extensions from `extensionPack` and after that just follow the steps below to install it locally.
 
-## Hot to develop and install it locally
+## How to develop and install it locally
 
 - Clone the repository
 
