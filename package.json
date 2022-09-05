@@ -2,7 +2,7 @@
   "name": "braun-extension-pack",
   "displayName": "Braun Extension Pack",
   "description": "A collection of extensions that makes vscode more productive (and cool).",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "publisher": "matheeusbl",
   "icon": "vscode-logo.png",
   "galleryBanner": {
@@ -11,8 +11,8 @@
   },
   "keywords": [
     "gitlens",
-    "dracula",
-    "material",
+    "bearded",
+    "copilot",
     "prettier"
   ],
   "repository": {
@@ -29,13 +29,15 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "coenraads.bracket-pair-colorizer-2",
-    "dracula-theme.theme-dracula",
+    "beardedbear.beardedtheme",
+    "beardedbear.beardedicons",
+    "naumovs.color-highlight",
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
+    "github.copilot",
     "eamodio.gitlens",
-    "ms-vsliveshare.vsliveshare-pack",
-    "pkief.material-icon-theme",
-    "esbenp.prettier-vscode"
+    "fabiospampinato.vscode-highlight",
+    "esbenp.prettier-vscode",
+    "prisma.prisma"
   ]
 }

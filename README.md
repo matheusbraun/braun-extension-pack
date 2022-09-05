@@ -6,21 +6,25 @@ You can install it from the marketplace [here](https://marketplace.visualstudio.
 
 ## Included Extensions
 
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2) - Allows matching brackets to be identified with colours.
+- [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) - Set of 32 different themes.
 
-- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - A dark theme for VS Code.
+- [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) - Icon pack complementing the bearded theme extension.
+
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlights colors in your editor.
 
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Attempts to override user/workspace settings with settings found in `.editorconfig` files.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code.
 
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - AI from GitHub that helps increase your productivity. It costs $10 monthly to use or $100 yearly.
+
 - [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens.
 
-- [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-pack) - Includes everything you need to start collaboratively editing and debugging in real time, including integrated audio and text chat.
-
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=kief.material-icon-theme) - Customize your folders/files icons.
+- [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) - Advanced text highlighter based on regexes. Useful for todos, annotations, colors etc.
 
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+- [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, linting, code completion, formatting, jump-to-definition and more for Prisma Schema files.
 
 ## Do you want to install just a few extensions?
 
