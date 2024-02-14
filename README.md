@@ -6,9 +6,9 @@ You can install it from the marketplace [here](https://marketplace.visualstudio.
 
 ## Included Extensions
 
-- [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme) - Set of 32 different themes.
+- [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) - Allows customization outside vscode scoop.
 
-- [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) - Icon pack complementing the bearded theme extension.
+- [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) - Official C# extension from Microsoft.
 
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlights colors in your editor.
 
@@ -22,9 +22,17 @@ You can install it from the marketplace [here](https://marketplace.visualstudio.
 
 - [Highlight](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-highlight) - Advanced text highlighter based on regexes. Useful for todos, annotations, colors etc.
 
+- [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme) - A minimal theme for VS Code that comes in dark and light.
+
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
+- [Pretty Typescript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors) - Make TypeScript errors prettier and human-readable in VSCode.
+
 - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, linting, code completion, formatting, jump-to-definition and more for Prisma Schema files.
+
+- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) - A simple file icon theme for VS Code.
+
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Enhances the Tailwind development experience by providing Visual Studio Code users with advanced features such as autocomplete, syntax highlighting, and linting.
 
 ## Do you want to install just a few extensions?
 

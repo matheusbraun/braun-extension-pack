@@ -2,7 +2,7 @@
   "name": "braun-extension-pack",
   "displayName": "Braun Extension Pack",
   "description": "A collection of extensions that makes vscode more productive (and cool).",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "publisher": "matheeusbl",
   "icon": "vscode-logo.png",
   "galleryBanner": {
@@ -29,15 +29,19 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "beardedbear.beardedtheme",
-    "beardedbear.beardedicons",
+    "drcika.apc-extension",
+    "ms-dotnettools.csdevkit",
     "naumovs.color-highlight",
     "editorconfig.editorconfig",
     "dbaeumer.vscode-eslint",
     "github.copilot",
     "eamodio.gitlens",
     "fabiospampinato.vscode-highlight",
+    "miguelsolorio.min-theme",
     "esbenp.prettier-vscode",
-    "prisma.prisma"
+    "yoavbls.pretty-ts-errors",
+    "prisma.prisma",
+    "miguelsolorio.symbols",
+    "bradlc.vscode-tailwindcss"
   ]
 }
