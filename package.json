@@ -2,7 +2,7 @@
   "name": "braun-extension-pack",
   "displayName": "Braun Extension Pack",
   "description": "A collection of extensions that makes vscode more productive (and cool).",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "matheeusbl",
   "icon": "vscode-logo.png",
   "galleryBanner": {
@@ -31,8 +31,11 @@
   "extensionPack": [
     "drcika.apc-extension",
     "ms-dotnettools.csdevkit",
+    "adrianwilczynski.namespace",
+    "streetsidesoftware.code-spell-checker",
     "naumovs.color-highlight",
     "editorconfig.editorconfig",
+    "usernamehw.errorlens",
     "dbaeumer.vscode-eslint",
     "github.copilot",
     "eamodio.gitlens",
